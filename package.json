@@ -60,6 +60,7 @@
     "@typescript-eslint/parser": "^7.7.1",
     "@vscode/test-cli": "^0.0.9",
     "@vscode/test-electron": "^2.3.9",
+    "ansis": "^4.1.0",
     "esbuild": "^0.23.0",
     "eslint": "^8.57.0",
     "husky": "^9.1.4",
